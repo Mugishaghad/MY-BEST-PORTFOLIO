@@ -1,0 +1,82 @@
+
+/*****COMMON CSS SECTION*****/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+html, body {
+	font-family: 'Roboto', sans-serif, arial;
+	font-size: 15px;
+
+}
+.container {
+	width: 1170px;
+	margin: 0px auto;
+}
+.width-100 {
+	width: 100%;
+	float: left;
+}
+.width-66 {
+	width: 66%;
+	float: left;
+}
+.width-50 {
+	float: left;
+	width: 50%;
+}
+.width-75 {
+	width: 75%;
+	float: left;
+}
+.width-33 {
+	width: 33%;
+	float: left;
+}
+.width-25 {
+	width: 25%;
+	float: left;
+}
+/******FOOTER SECTION******/
+.footer-list {
+	list-style: none;
+	line-height: 35px;
+	padding-top: 20px;
+}
+
+.footer-background {
+	background-color: #222328;
+	padding-top: 60px;
+	padding-bottom: 80px;
+	color: rgba(255, 255, 255, .86);
+}
+
+.get-in-touch {
+	list-style: none;
+	line-height: 15px;
+	padding-top: 20px
+}
+
+.get-in-touch img {
+	width: 30px;
+	height: 30px;
+	margin-left: 10px;
+	border-radius: 0px;
+	float: left;
+	padding-top: 20px
+}
+
+.get-in-touch i {
+	float: left;
+	color: #eb372a;
+	font-size: 16px;
+	line-height: 15px;
+}
+
+.get-in-touch p {
+	padding-left: 30px;
+	color: rgba(255, 255, 255, .86);
+	margin-top: 20px
+}
+
+/******FOOTER SECTION******/
